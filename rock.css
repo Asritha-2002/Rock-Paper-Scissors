@@ -1,0 +1,71 @@
+#myH3{
+    font-size: 2rem;
+    text-align: center;
+}
+.myButtons{
+ width: 6rem;
+ padding: 10px 15px;
+    font-size: 4rem;
+    border-radius: 3rem;
+    align-items: center;
+    text-align: center;
+    background-color: hsl(240, 80%, 30%);
+    border: none;
+
+}
+#player{
+    font-size: 1.5rem;
+    font-weight: bold;
+   text-align: center;
+   margin-top: 20px;
+   margin-left: -8rem;
+}
+#computer{
+    font-size: 1.5rem;
+    margin-top: 45px;
+    margin-left: 30rem;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    padding-top: 1rem;
+    background-color: hsl(180, 20%, 70%);
+   
+    color:hsl(160, 100%, 75%);
+    border: none;
+    border-radius: 0.2rem;
+   
+   
+}
+
+#output{
+    margin-top: 20px;
+    margin-left: 10rem;
+    font-weight: bold;
+    text-align: center;
+    margin-left:-2rem
+}
+#pscore{
+    margin-top: 20px;
+    margin-left: 10rem;
+    text-align: center;
+    margin-left:-2rem
+}
+#cscore{
+    margin-top: 20px;
+    margin-left: 10rem;
+    text-align: center;
+    margin-left:-2rem
+}
+.computerr{
+    color:red;
+    text-align: center;
+    margin-top:-2rem;
+    margin-right: -18rem;
+}
+#play{
+    color: blue;
+    text-align: center;
+    margin-top:-2rem;
+    margin-right: -18rem;
+
+}
